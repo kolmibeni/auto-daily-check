@@ -1,0 +1,12 @@
+-----------------------
+2021/02/16 Tuesday 23:36:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/16 Tuesday 23:44:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/16 Tuesday 23:51:40
+-----------------------
+2021/02/16 Tuesday 23:59:48

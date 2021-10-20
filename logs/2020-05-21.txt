@@ -1,0 +1,480 @@
+-----------------------
+2020/05/21 Thursday 00:01:55
+-----------------------
+2020/05/21 Thursday 00:10:03
+-----------------------
+2020/05/21 Thursday 00:18:11
+-----------------------
+2020/05/21 Thursday 00:25:18
+-----------------------
+2020/05/21 Thursday 00:32:25
+-----------------------
+2020/05/21 Thursday 00:39:32
+-----------------------
+2020/05/21 Thursday 00:46:39
+-----------------------
+2020/05/21 Thursday 00:53:46
+-----------------------
+2020/05/21 Thursday 01:00:54
+-----------------------
+2020/05/21 Thursday 01:09:02
+-----------------------
+2020/05/21 Thursday 01:17:10
+-----------------------
+2020/05/21 Thursday 01:24:17
+-----------------------
+2020/05/21 Thursday 01:31:24
+-----------------------
+2020/05/21 Thursday 01:38:31
+-----------------------
+2020/05/21 Thursday 01:45:38
+-----------------------
+2020/05/21 Thursday 01:52:45
+-----------------------
+2020/05/21 Thursday 01:59:52
+-----------------------
+2020/05/21 Thursday 02:06:59
+-----------------------
+2020/05/21 Thursday 02:14:06
+-----------------------
+2020/05/21 Thursday 02:21:13
+-----------------------
+2020/05/21 Thursday 02:28:20
+-----------------------
+2020/05/21 Thursday 02:36:28
+-----------------------
+2020/05/21 Thursday 02:43:35
+-----------------------
+2020/05/21 Thursday 02:51:43
+-----------------------
+2020/05/21 Thursday 02:59:51
+-----------------------
+2020/05/21 Thursday 03:07:59
+-----------------------
+2020/05/21 Thursday 03:16:07
+-----------------------
+2020/05/21 Thursday 03:23:14
+-----------------------
+2020/05/21 Thursday 03:30:21
+-----------------------
+2020/05/21 Thursday 03:38:29
+-----------------------
+2020/05/21 Thursday 03:45:36
+-----------------------
+2020/05/21 Thursday 03:52:43
+-----------------------
+2020/05/21 Thursday 03:59:50
+-----------------------
+2020/05/21 Thursday 04:06:57
+-----------------------
+2020/05/21 Thursday 04:14:04
+-----------------------
+2020/05/21 Thursday 04:22:12
+-----------------------
+2020/05/21 Thursday 04:29:19
+-----------------------
+2020/05/21 Thursday 04:37:27
+-----------------------
+2020/05/21 Thursday 04:44:34
+-----------------------
+2020/05/21 Thursday 04:51:41
+-----------------------
+2020/05/21 Thursday 04:59:49
+-----------------------
+2020/05/21 Thursday 05:07:57
+-----------------------
+2020/05/21 Thursday 05:16:05
+-----------------------
+2020/05/21 Thursday 05:24:13
+-----------------------
+2020/05/21 Thursday 05:32:21
+-----------------------
+2020/05/21 Thursday 05:39:28
+-----------------------
+2020/05/21 Thursday 05:47:36
+-----------------------
+2020/05/21 Thursday 05:55:44
+-----------------------
+2020/05/21 Thursday 06:03:52
+-----------------------
+2020/05/21 Thursday 06:12:00
+-----------------------
+2020/05/21 Thursday 06:19:07
+-----------------------
+2020/05/21 Thursday 06:26:14
+-----------------------
+2020/05/21 Thursday 06:34:22
+-----------------------
+2020/05/21 Thursday 06:42:30
+-----------------------
+2020/05/21 Thursday 06:49:37
+-----------------------
+2020/05/21 Thursday 06:56:44
+-----------------------
+2020/05/21 Thursday 07:04:52
+-----------------------
+2020/05/21 Thursday 07:11:59
+-----------------------
+2020/05/21 Thursday 07:20:07
+-----------------------
+2020/05/21 Thursday 07:27:14
+-----------------------
+2020/05/21 Thursday 07:35:22
+-----------------------
+2020/05/21 Thursday 07:43:30
+-----------------------
+2020/05/21 Thursday 07:51:38
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 07:59:53
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 08:08:07
+-----------------------
+2020/05/21 Thursday 08:16:15
+-----------------------
+2020/05/21 Thursday 08:23:22
+-----------------------
+2020/05/21 Thursday 08:30:29
+-----------------------
+2020/05/21 Thursday 08:38:37
+-----------------------
+2020/05/21 Thursday 08:46:45
+-----------------------
+2020/05/21 Thursday 08:54:53
+-----------------------
+2020/05/21 Thursday 09:02:00
+-----------------------
+2020/05/21 Thursday 09:10:12
+-----------------------
+2020/05/21 Thursday 09:17:19
+-----------------------
+2020/05/21 Thursday 09:25:27
+-----------------------
+2020/05/21 Thursday 09:33:35
+-----------------------
+2020/05/21 Thursday 09:40:42
+-----------------------
+2020/05/21 Thursday 09:47:49
+-----------------------
+2020/05/21 Thursday 09:54:56
+-----------------------
+2020/05/21 Thursday 10:02:03
+-----------------------
+2020/05/21 Thursday 10:10:11
+-----------------------
+2020/05/21 Thursday 10:17:18
+-----------------------
+2020/05/21 Thursday 10:24:25
+-----------------------
+2020/05/21 Thursday 10:31:32
+-----------------------
+2020/05/21 Thursday 10:38:39
+-----------------------
+2020/05/21 Thursday 10:45:46
+-----------------------
+2020/05/21 Thursday 10:52:53
+-----------------------
+2020/05/21 Thursday 11:00:00
+-----------------------
+2020/05/21 Thursday 11:07:07
+-----------------------
+2020/05/21 Thursday 11:14:14
+-----------------------
+2020/05/21 Thursday 11:22:22
+-----------------------
+2020/05/21 Thursday 11:29:29
+-----------------------
+2020/05/21 Thursday 11:36:36
+-----------------------
+2020/05/21 Thursday 11:44:44
+-----------------------
+2020/05/21 Thursday 11:52:52
+-----------------------
+2020/05/21 Thursday 12:01:00
+-----------------------
+2020/05/21 Thursday 12:08:07
+-----------------------
+2020/05/21 Thursday 12:15:14
+-----------------------
+2020/05/21 Thursday 12:22:21
+-----------------------
+2020/05/21 Thursday 12:29:28
+-----------------------
+2020/05/21 Thursday 12:36:35
+-----------------------
+2020/05/21 Thursday 12:44:43
+-----------------------
+2020/05/21 Thursday 12:52:51
+-----------------------
+2020/05/21 Thursday 12:59:58
+-----------------------
+2020/05/21 Thursday 13:07:05
+-----------------------
+2020/05/21 Thursday 13:14:12
+-----------------------
+2020/05/21 Thursday 13:22:20
+-----------------------
+2020/05/21 Thursday 13:29:27
+-----------------------
+2020/05/21 Thursday 13:37:35
+-----------------------
+2020/05/21 Thursday 13:45:43
+-----------------------
+2020/05/21 Thursday 13:52:50
+-----------------------
+2020/05/21 Thursday 13:59:57
+-----------------------
+2020/05/21 Thursday 14:07:04
+-----------------------
+2020/05/21 Thursday 14:15:12
+-----------------------
+2020/05/21 Thursday 14:23:20
+-----------------------
+2020/05/21 Thursday 14:31:29
+-----------------------
+2020/05/21 Thursday 14:38:36
+-----------------------
+2020/05/21 Thursday 14:46:44
+-----------------------
+2020/05/21 Thursday 14:53:51
+-----------------------
+2020/05/21 Thursday 15:01:59
+-----------------------
+2020/05/21 Thursday 15:09:06
+-----------------------
+2020/05/21 Thursday 15:17:14
+-----------------------
+2020/05/21 Thursday 15:25:22
+-----------------------
+2020/05/21 Thursday 15:33:30
+-----------------------
+2020/05/21 Thursday 15:40:37
+-----------------------
+2020/05/21 Thursday 15:47:44
+-----------------------
+2020/05/21 Thursday 15:54:51
+-----------------------
+2020/05/21 Thursday 16:02:59
+-----------------------
+2020/05/21 Thursday 16:11:07
+-----------------------
+2020/05/21 Thursday 16:18:14
+-----------------------
+2020/05/21 Thursday 16:26:22
+-----------------------
+2020/05/21 Thursday 16:34:30
+-----------------------
+2020/05/21 Thursday 16:41:37
+-----------------------
+2020/05/21 Thursday 16:48:44
+-----------------------
+2020/05/21 Thursday 16:55:51
+-----------------------
+2020/05/21 Thursday 17:03:59
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 17:11:16
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 17:19:33
+-----------------------
+2020/05/21 Thursday 17:27:41
+-----------------------
+2020/05/21 Thursday 17:34:48
+-----------------------
+2020/05/21 Thursday 17:41:55
+-----------------------
+2020/05/21 Thursday 17:49:02
+-----------------------
+2020/05/21 Thursday 17:57:10
+-----------------------
+2020/05/21 Thursday 18:04:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:11:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:19:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:26:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:33:47
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:41:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:50:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 18:57:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:05:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:12:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:20:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:28:42
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:35:49
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:42:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:51:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 19:58:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:05:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:12:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:19:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:26:39
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:34:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:42:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:50:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 20:58:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:05:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:13:26
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:20:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:28:41
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:35:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:42:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:51:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 21:59:12
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:07:20
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:14:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:21:38
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:28:45
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:36:53
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:44:01
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:51:08
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 22:59:16
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:07:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:15:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:23:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:30:47
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:37:54
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:46:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/05/21 Thursday 23:54:11

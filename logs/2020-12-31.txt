@@ -1,0 +1,478 @@
+-----------------------
+2020/12/31 Thursday 00:04:05
+-----------------------
+2020/12/31 Thursday 00:11:12
+-----------------------
+2020/12/31 Thursday 00:18:19
+-----------------------
+2020/12/31 Thursday 00:26:27
+-----------------------
+2020/12/31 Thursday 00:34:35
+-----------------------
+2020/12/31 Thursday 00:41:42
+-----------------------
+2020/12/31 Thursday 00:49:50
+-----------------------
+2020/12/31 Thursday 00:56:57
+-----------------------
+2020/12/31 Thursday 01:05:05
+-----------------------
+2020/12/31 Thursday 01:12:12
+-----------------------
+2020/12/31 Thursday 01:19:19
+-----------------------
+2020/12/31 Thursday 01:27:27
+-----------------------
+2020/12/31 Thursday 01:35:35
+-----------------------
+2020/12/31 Thursday 01:42:42
+-----------------------
+2020/12/31 Thursday 01:49:49
+-----------------------
+2020/12/31 Thursday 01:56:56
+-----------------------
+2020/12/31 Thursday 02:04:03
+-----------------------
+2020/12/31 Thursday 02:11:10
+-----------------------
+2020/12/31 Thursday 02:18:17
+-----------------------
+2020/12/31 Thursday 02:25:24
+-----------------------
+2020/12/31 Thursday 02:32:31
+-----------------------
+2020/12/31 Thursday 02:40:39
+-----------------------
+2020/12/31 Thursday 02:47:46
+-----------------------
+2020/12/31 Thursday 02:55:54
+-----------------------
+2020/12/31 Thursday 03:03:01
+-----------------------
+2020/12/31 Thursday 03:10:08
+-----------------------
+2020/12/31 Thursday 03:18:16
+-----------------------
+2020/12/31 Thursday 03:26:24
+-----------------------
+2020/12/31 Thursday 03:33:31
+-----------------------
+2020/12/31 Thursday 03:40:38
+-----------------------
+2020/12/31 Thursday 03:47:45
+-----------------------
+2020/12/31 Thursday 03:54:52
+-----------------------
+2020/12/31 Thursday 04:03:00
+-----------------------
+2020/12/31 Thursday 04:10:07
+-----------------------
+2020/12/31 Thursday 04:18:15
+-----------------------
+2020/12/31 Thursday 04:26:23
+-----------------------
+2020/12/31 Thursday 04:34:31
+-----------------------
+2020/12/31 Thursday 04:42:39
+-----------------------
+2020/12/31 Thursday 04:49:46
+-----------------------
+2020/12/31 Thursday 04:56:53
+-----------------------
+2020/12/31 Thursday 05:04:00
+-----------------------
+2020/12/31 Thursday 05:11:07
+-----------------------
+2020/12/31 Thursday 05:18:14
+-----------------------
+2020/12/31 Thursday 05:26:22
+-----------------------
+2020/12/31 Thursday 05:33:29
+-----------------------
+2020/12/31 Thursday 05:40:36
+-----------------------
+2020/12/31 Thursday 05:48:44
+-----------------------
+2020/12/31 Thursday 05:56:52
+-----------------------
+2020/12/31 Thursday 06:05:00
+-----------------------
+2020/12/31 Thursday 06:12:07
+-----------------------
+2020/12/31 Thursday 06:20:15
+-----------------------
+2020/12/31 Thursday 06:28:23
+-----------------------
+2020/12/31 Thursday 06:35:30
+-----------------------
+2020/12/31 Thursday 06:43:38
+-----------------------
+2020/12/31 Thursday 06:50:45
+-----------------------
+2020/12/31 Thursday 06:58:53
+-----------------------
+2020/12/31 Thursday 07:06:00
+-----------------------
+2020/12/31 Thursday 07:14:08
+-----------------------
+2020/12/31 Thursday 07:22:16
+-----------------------
+2020/12/31 Thursday 07:29:23
+-----------------------
+2020/12/31 Thursday 07:37:31
+-----------------------
+2020/12/31 Thursday 07:45:39
+-----------------------
+2020/12/31 Thursday 07:53:47
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 08:02:07
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 08:10:23
+-----------------------
+2020/12/31 Thursday 08:17:30
+-----------------------
+2020/12/31 Thursday 08:25:38
+-----------------------
+2020/12/31 Thursday 08:33:46
+-----------------------
+2020/12/31 Thursday 08:40:53
+-----------------------
+2020/12/31 Thursday 08:49:01
+-----------------------
+2020/12/31 Thursday 08:56:08
+-----------------------
+2020/12/31 Thursday 09:03:23
+-----------------------
+2020/12/31 Thursday 09:10:30
+-----------------------
+2020/12/31 Thursday 09:18:38
+-----------------------
+2020/12/31 Thursday 09:25:45
+-----------------------
+2020/12/31 Thursday 09:32:52
+-----------------------
+2020/12/31 Thursday 09:39:59
+-----------------------
+2020/12/31 Thursday 09:48:07
+-----------------------
+2020/12/31 Thursday 09:55:14
+-----------------------
+2020/12/31 Thursday 10:02:21
+-----------------------
+2020/12/31 Thursday 10:09:28
+-----------------------
+2020/12/31 Thursday 10:17:36
+-----------------------
+2020/12/31 Thursday 10:25:44
+-----------------------
+2020/12/31 Thursday 10:33:52
+-----------------------
+2020/12/31 Thursday 10:42:00
+-----------------------
+2020/12/31 Thursday 10:49:07
+-----------------------
+2020/12/31 Thursday 10:57:15
+-----------------------
+2020/12/31 Thursday 11:05:23
+-----------------------
+2020/12/31 Thursday 11:12:30
+-----------------------
+2020/12/31 Thursday 11:19:37
+-----------------------
+2020/12/31 Thursday 11:27:45
+-----------------------
+2020/12/31 Thursday 11:35:53
+-----------------------
+2020/12/31 Thursday 11:43:00
+-----------------------
+2020/12/31 Thursday 11:51:08
+-----------------------
+2020/12/31 Thursday 11:58:15
+-----------------------
+2020/12/31 Thursday 12:05:22
+-----------------------
+2020/12/31 Thursday 12:12:29
+-----------------------
+2020/12/31 Thursday 12:20:37
+-----------------------
+2020/12/31 Thursday 12:28:45
+-----------------------
+2020/12/31 Thursday 12:36:53
+-----------------------
+2020/12/31 Thursday 12:45:01
+-----------------------
+2020/12/31 Thursday 12:52:08
+-----------------------
+2020/12/31 Thursday 12:59:15
+-----------------------
+2020/12/31 Thursday 13:07:23
+-----------------------
+2020/12/31 Thursday 13:15:31
+-----------------------
+2020/12/31 Thursday 13:23:39
+-----------------------
+2020/12/31 Thursday 13:30:46
+-----------------------
+2020/12/31 Thursday 13:38:54
+-----------------------
+2020/12/31 Thursday 13:46:01
+-----------------------
+2020/12/31 Thursday 13:53:08
+-----------------------
+2020/12/31 Thursday 14:00:17
+-----------------------
+2020/12/31 Thursday 14:07:24
+-----------------------
+2020/12/31 Thursday 14:14:31
+-----------------------
+2020/12/31 Thursday 14:22:39
+-----------------------
+2020/12/31 Thursday 14:29:46
+-----------------------
+2020/12/31 Thursday 14:37:54
+-----------------------
+2020/12/31 Thursday 14:45:01
+-----------------------
+2020/12/31 Thursday 14:53:09
+-----------------------
+2020/12/31 Thursday 15:00:16
+-----------------------
+2020/12/31 Thursday 15:08:24
+-----------------------
+2020/12/31 Thursday 15:16:32
+-----------------------
+2020/12/31 Thursday 15:24:40
+-----------------------
+2020/12/31 Thursday 15:31:47
+-----------------------
+2020/12/31 Thursday 15:38:54
+-----------------------
+2020/12/31 Thursday 15:46:01
+-----------------------
+2020/12/31 Thursday 15:53:08
+-----------------------
+2020/12/31 Thursday 16:01:16
+-----------------------
+2020/12/31 Thursday 16:09:24
+-----------------------
+2020/12/31 Thursday 16:17:32
+-----------------------
+2020/12/31 Thursday 16:24:39
+-----------------------
+2020/12/31 Thursday 16:31:46
+-----------------------
+2020/12/31 Thursday 16:39:54
+-----------------------
+2020/12/31 Thursday 16:47:01
+-----------------------
+2020/12/31 Thursday 16:54:08
+-----------------------
+2020/12/31 Thursday 17:02:16
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 17:09:32
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 17:17:48
+-----------------------
+2020/12/31 Thursday 17:25:56
+-----------------------
+2020/12/31 Thursday 17:33:03
+-----------------------
+2020/12/31 Thursday 17:40:10
+-----------------------
+2020/12/31 Thursday 17:47:17
+-----------------------
+2020/12/31 Thursday 17:55:25
+-----------------------
+2020/12/31 Thursday 18:03:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:10:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:17:47
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:24:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:32:02
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:39:09
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:46:16
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 18:53:23
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:00:30
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:08:38
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:15:45
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:23:54
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:32:02
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:40:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:48:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 19:56:26
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:03:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:10:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:18:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:25:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:34:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:42:12
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:50:20
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 20:58:28
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:06:36
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:14:44
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:21:51
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:29:59
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:37:06
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:45:15
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 21:53:23
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:01:31
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:09:39
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:16:46
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:24:54
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:32:01
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:40:09
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:47:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 22:55:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:02:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:09:39
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:16:46
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:23:53
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:32:01
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:40:09
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:47:16
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/12/31 Thursday 23:54:24

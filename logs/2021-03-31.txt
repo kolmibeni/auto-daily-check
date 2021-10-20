@@ -1,0 +1,470 @@
+-----------------------
+2021/03/31 Wednesday 00:06:18
+-----------------------
+2021/03/31 Wednesday 00:13:25
+-----------------------
+2021/03/31 Wednesday 00:20:32
+-----------------------
+2021/03/31 Wednesday 00:27:39
+-----------------------
+2021/03/31 Wednesday 00:34:46
+-----------------------
+2021/03/31 Wednesday 00:42:54
+-----------------------
+2021/03/31 Wednesday 00:51:02
+-----------------------
+2021/03/31 Wednesday 00:59:10
+-----------------------
+2021/03/31 Wednesday 01:06:17
+-----------------------
+2021/03/31 Wednesday 01:13:24
+-----------------------
+2021/03/31 Wednesday 01:21:32
+-----------------------
+2021/03/31 Wednesday 01:29:40
+-----------------------
+2021/03/31 Wednesday 01:37:48
+-----------------------
+2021/03/31 Wednesday 01:45:56
+-----------------------
+2021/03/31 Wednesday 01:54:04
+-----------------------
+2021/03/31 Wednesday 02:02:12
+-----------------------
+2021/03/31 Wednesday 02:09:19
+-----------------------
+2021/03/31 Wednesday 02:17:27
+-----------------------
+2021/03/31 Wednesday 02:24:34
+-----------------------
+2021/03/31 Wednesday 02:31:41
+-----------------------
+2021/03/31 Wednesday 02:39:49
+-----------------------
+2021/03/31 Wednesday 02:46:56
+-----------------------
+2021/03/31 Wednesday 02:54:03
+-----------------------
+2021/03/31 Wednesday 03:02:11
+-----------------------
+2021/03/31 Wednesday 03:09:18
+-----------------------
+2021/03/31 Wednesday 03:17:26
+-----------------------
+2021/03/31 Wednesday 03:24:33
+-----------------------
+2021/03/31 Wednesday 03:31:40
+-----------------------
+2021/03/31 Wednesday 03:39:48
+-----------------------
+2021/03/31 Wednesday 03:46:55
+-----------------------
+2021/03/31 Wednesday 03:54:02
+-----------------------
+2021/03/31 Wednesday 04:02:10
+-----------------------
+2021/03/31 Wednesday 04:10:18
+-----------------------
+2021/03/31 Wednesday 04:17:25
+-----------------------
+2021/03/31 Wednesday 04:24:32
+-----------------------
+2021/03/31 Wednesday 04:32:40
+-----------------------
+2021/03/31 Wednesday 04:39:47
+-----------------------
+2021/03/31 Wednesday 04:47:55
+-----------------------
+2021/03/31 Wednesday 04:56:03
+-----------------------
+2021/03/31 Wednesday 05:03:10
+-----------------------
+2021/03/31 Wednesday 05:11:18
+-----------------------
+2021/03/31 Wednesday 05:18:25
+-----------------------
+2021/03/31 Wednesday 05:26:33
+-----------------------
+2021/03/31 Wednesday 05:33:40
+-----------------------
+2021/03/31 Wednesday 05:41:48
+-----------------------
+2021/03/31 Wednesday 05:48:55
+-----------------------
+2021/03/31 Wednesday 05:57:03
+-----------------------
+2021/03/31 Wednesday 06:05:11
+-----------------------
+2021/03/31 Wednesday 06:12:18
+-----------------------
+2021/03/31 Wednesday 06:20:26
+-----------------------
+2021/03/31 Wednesday 06:28:34
+-----------------------
+2021/03/31 Wednesday 06:35:41
+-----------------------
+2021/03/31 Wednesday 06:42:48
+-----------------------
+2021/03/31 Wednesday 06:49:55
+-----------------------
+2021/03/31 Wednesday 06:58:03
+-----------------------
+2021/03/31 Wednesday 07:05:10
+-----------------------
+2021/03/31 Wednesday 07:13:18
+-----------------------
+2021/03/31 Wednesday 07:20:25
+-----------------------
+2021/03/31 Wednesday 07:28:33
+-----------------------
+2021/03/31 Wednesday 07:35:40
+-----------------------
+2021/03/31 Wednesday 07:43:48
+-----------------------
+2021/03/31 Wednesday 07:51:56
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 07:59:15
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 08:06:31
+-----------------------
+2021/03/31 Wednesday 08:13:38
+-----------------------
+2021/03/31 Wednesday 08:21:46
+-----------------------
+2021/03/31 Wednesday 08:29:54
+-----------------------
+2021/03/31 Wednesday 08:38:02
+-----------------------
+2021/03/31 Wednesday 08:45:09
+-----------------------
+2021/03/31 Wednesday 08:53:17
+-----------------------
+2021/03/31 Wednesday 09:01:25
+-----------------------
+2021/03/31 Wednesday 09:08:35
+-----------------------
+2021/03/31 Wednesday 09:16:43
+-----------------------
+2021/03/31 Wednesday 09:23:50
+-----------------------
+2021/03/31 Wednesday 09:31:58
+-----------------------
+2021/03/31 Wednesday 09:40:06
+-----------------------
+2021/03/31 Wednesday 09:47:13
+-----------------------
+2021/03/31 Wednesday 09:54:20
+-----------------------
+2021/03/31 Wednesday 10:02:28
+-----------------------
+2021/03/31 Wednesday 10:10:36
+-----------------------
+2021/03/31 Wednesday 10:18:44
+-----------------------
+2021/03/31 Wednesday 10:26:52
+-----------------------
+2021/03/31 Wednesday 10:33:59
+-----------------------
+2021/03/31 Wednesday 10:41:06
+-----------------------
+2021/03/31 Wednesday 10:49:14
+-----------------------
+2021/03/31 Wednesday 10:57:22
+-----------------------
+2021/03/31 Wednesday 11:04:29
+-----------------------
+2021/03/31 Wednesday 11:12:37
+-----------------------
+2021/03/31 Wednesday 11:19:44
+-----------------------
+2021/03/31 Wednesday 11:27:52
+-----------------------
+2021/03/31 Wednesday 11:36:00
+-----------------------
+2021/03/31 Wednesday 11:44:08
+-----------------------
+2021/03/31 Wednesday 11:51:15
+-----------------------
+2021/03/31 Wednesday 11:58:22
+-----------------------
+2021/03/31 Wednesday 12:05:29
+-----------------------
+2021/03/31 Wednesday 12:13:37
+-----------------------
+2021/03/31 Wednesday 12:20:44
+-----------------------
+2021/03/31 Wednesday 12:28:52
+-----------------------
+2021/03/31 Wednesday 12:35:59
+-----------------------
+2021/03/31 Wednesday 12:43:06
+-----------------------
+2021/03/31 Wednesday 12:50:13
+-----------------------
+2021/03/31 Wednesday 12:58:21
+-----------------------
+2021/03/31 Wednesday 13:06:29
+-----------------------
+2021/03/31 Wednesday 13:13:36
+-----------------------
+2021/03/31 Wednesday 13:21:44
+-----------------------
+2021/03/31 Wednesday 13:28:51
+-----------------------
+2021/03/31 Wednesday 13:35:58
+-----------------------
+2021/03/31 Wednesday 13:43:05
+-----------------------
+2021/03/31 Wednesday 13:51:13
+-----------------------
+2021/03/31 Wednesday 13:58:20
+-----------------------
+2021/03/31 Wednesday 14:06:28
+-----------------------
+2021/03/31 Wednesday 14:14:36
+-----------------------
+2021/03/31 Wednesday 14:22:44
+-----------------------
+2021/03/31 Wednesday 14:29:51
+-----------------------
+2021/03/31 Wednesday 14:36:58
+-----------------------
+2021/03/31 Wednesday 14:45:06
+-----------------------
+2021/03/31 Wednesday 14:53:14
+-----------------------
+2021/03/31 Wednesday 15:00:21
+-----------------------
+2021/03/31 Wednesday 15:07:28
+-----------------------
+2021/03/31 Wednesday 15:15:36
+-----------------------
+2021/03/31 Wednesday 15:22:43
+-----------------------
+2021/03/31 Wednesday 15:29:50
+-----------------------
+2021/03/31 Wednesday 15:37:58
+-----------------------
+2021/03/31 Wednesday 15:46:06
+-----------------------
+2021/03/31 Wednesday 15:53:13
+-----------------------
+2021/03/31 Wednesday 16:00:20
+-----------------------
+2021/03/31 Wednesday 16:07:27
+-----------------------
+2021/03/31 Wednesday 16:14:34
+-----------------------
+2021/03/31 Wednesday 16:21:41
+-----------------------
+2021/03/31 Wednesday 16:28:48
+-----------------------
+2021/03/31 Wednesday 16:36:56
+-----------------------
+2021/03/31 Wednesday 16:44:03
+-----------------------
+2021/03/31 Wednesday 16:52:11
+-----------------------
+2021/03/31 Wednesday 17:00:19
+-----------------------
+2021/03/31 Wednesday 17:07:26
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 17:15:42
+-----------------------
+2021/03/31 Wednesday 17:23:50
+-----------------------
+2021/03/31 Wednesday 17:31:58
+-----------------------
+2021/03/31 Wednesday 17:39:05
+-----------------------
+2021/03/31 Wednesday 17:46:12
+-----------------------
+2021/03/31 Wednesday 17:53:19
+-----------------------
+2021/03/31 Wednesday 18:01:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:09:35
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:17:43
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:24:50
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:32:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:40:05
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:48:13
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 18:56:21
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:04:29
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:12:38
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:20:46
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:27:53
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:36:01
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:44:09
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 19:52:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:00:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:07:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:14:39
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:22:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:29:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:38:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:46:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 20:54:19
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:02:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:09:34
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:17:42
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:25:50
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:33:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:41:06
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:49:14
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 21:57:22
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:05:30
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:12:37
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:20:45
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:27:52
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:36:00
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:44:08
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:51:16
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 22:59:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:07:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:15:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:23:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:30:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:39:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:46:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/31 Wednesday 23:54:18

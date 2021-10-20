@@ -1,0 +1,480 @@
+-----------------------
+2021/03/04 Thursday 00:01:27
+-----------------------
+2021/03/04 Thursday 00:08:34
+-----------------------
+2021/03/04 Thursday 00:16:42
+-----------------------
+2021/03/04 Thursday 00:24:50
+-----------------------
+2021/03/04 Thursday 00:32:02
+-----------------------
+2021/03/04 Thursday 00:40:10
+-----------------------
+2021/03/04 Thursday 00:47:17
+-----------------------
+2021/03/04 Thursday 00:55:25
+-----------------------
+2021/03/04 Thursday 01:03:33
+-----------------------
+2021/03/04 Thursday 01:11:41
+-----------------------
+2021/03/04 Thursday 01:18:48
+-----------------------
+2021/03/04 Thursday 01:25:55
+-----------------------
+2021/03/04 Thursday 01:34:03
+-----------------------
+2021/03/04 Thursday 01:41:10
+-----------------------
+2021/03/04 Thursday 01:49:18
+-----------------------
+2021/03/04 Thursday 01:56:25
+-----------------------
+2021/03/04 Thursday 02:04:33
+-----------------------
+2021/03/04 Thursday 02:11:40
+-----------------------
+2021/03/04 Thursday 02:18:47
+-----------------------
+2021/03/04 Thursday 02:26:55
+-----------------------
+2021/03/04 Thursday 02:35:03
+-----------------------
+2021/03/04 Thursday 02:43:11
+-----------------------
+2021/03/04 Thursday 02:50:18
+-----------------------
+2021/03/04 Thursday 02:57:25
+-----------------------
+2021/03/04 Thursday 03:05:33
+-----------------------
+2021/03/04 Thursday 03:13:41
+-----------------------
+2021/03/04 Thursday 03:20:48
+-----------------------
+2021/03/04 Thursday 03:27:55
+-----------------------
+2021/03/04 Thursday 03:36:03
+-----------------------
+2021/03/04 Thursday 03:43:10
+-----------------------
+2021/03/04 Thursday 03:50:17
+-----------------------
+2021/03/04 Thursday 03:58:25
+-----------------------
+2021/03/04 Thursday 04:06:33
+-----------------------
+2021/03/04 Thursday 04:14:41
+-----------------------
+2021/03/04 Thursday 04:22:49
+-----------------------
+2021/03/04 Thursday 04:30:57
+-----------------------
+2021/03/04 Thursday 04:39:05
+-----------------------
+2021/03/04 Thursday 04:46:12
+-----------------------
+2021/03/04 Thursday 04:54:20
+-----------------------
+2021/03/04 Thursday 05:02:28
+-----------------------
+2021/03/04 Thursday 05:10:36
+-----------------------
+2021/03/04 Thursday 05:18:44
+-----------------------
+2021/03/04 Thursday 05:25:51
+-----------------------
+2021/03/04 Thursday 05:32:58
+-----------------------
+2021/03/04 Thursday 05:40:05
+-----------------------
+2021/03/04 Thursday 05:48:13
+-----------------------
+2021/03/04 Thursday 05:55:20
+-----------------------
+2021/03/04 Thursday 06:03:28
+-----------------------
+2021/03/04 Thursday 06:10:35
+-----------------------
+2021/03/04 Thursday 06:18:43
+-----------------------
+2021/03/04 Thursday 06:25:50
+-----------------------
+2021/03/04 Thursday 06:32:57
+-----------------------
+2021/03/04 Thursday 06:41:05
+-----------------------
+2021/03/04 Thursday 06:48:12
+-----------------------
+2021/03/04 Thursday 06:56:20
+-----------------------
+2021/03/04 Thursday 07:03:28
+-----------------------
+2021/03/04 Thursday 07:11:36
+-----------------------
+2021/03/04 Thursday 07:18:43
+-----------------------
+2021/03/04 Thursday 07:25:50
+-----------------------
+2021/03/04 Thursday 07:32:57
+-----------------------
+2021/03/04 Thursday 07:41:05
+-----------------------
+2021/03/04 Thursday 07:48:12
+-----------------------
+2021/03/04 Thursday 07:55:19
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 08:03:34
+-----------------------
+2021/03/04 Thursday 08:10:41
+-----------------------
+2021/03/04 Thursday 08:17:48
+-----------------------
+2021/03/04 Thursday 08:25:56
+-----------------------
+2021/03/04 Thursday 08:33:03
+-----------------------
+2021/03/04 Thursday 08:41:11
+-----------------------
+2021/03/04 Thursday 08:49:19
+-----------------------
+2021/03/04 Thursday 08:56:26
+-----------------------
+2021/03/04 Thursday 09:04:37
+-----------------------
+2021/03/04 Thursday 09:12:45
+-----------------------
+2021/03/04 Thursday 09:19:52
+-----------------------
+2021/03/04 Thursday 09:26:59
+-----------------------
+2021/03/04 Thursday 09:35:07
+-----------------------
+2021/03/04 Thursday 09:42:14
+-----------------------
+2021/03/04 Thursday 09:49:21
+-----------------------
+2021/03/04 Thursday 09:56:28
+-----------------------
+2021/03/04 Thursday 10:04:36
+-----------------------
+2021/03/04 Thursday 10:11:43
+-----------------------
+2021/03/04 Thursday 10:18:50
+-----------------------
+2021/03/04 Thursday 10:25:57
+-----------------------
+2021/03/04 Thursday 10:33:04
+-----------------------
+2021/03/04 Thursday 10:40:11
+-----------------------
+2021/03/04 Thursday 10:48:19
+-----------------------
+2021/03/04 Thursday 10:55:26
+-----------------------
+2021/03/04 Thursday 11:03:34
+-----------------------
+2021/03/04 Thursday 11:10:41
+-----------------------
+2021/03/04 Thursday 11:18:49
+-----------------------
+2021/03/04 Thursday 11:25:56
+-----------------------
+2021/03/04 Thursday 11:33:03
+-----------------------
+2021/03/04 Thursday 11:40:10
+-----------------------
+2021/03/04 Thursday 11:47:17
+-----------------------
+2021/03/04 Thursday 11:54:24
+-----------------------
+2021/03/04 Thursday 12:02:32
+-----------------------
+2021/03/04 Thursday 12:09:39
+-----------------------
+2021/03/04 Thursday 12:16:46
+-----------------------
+2021/03/04 Thursday 12:23:53
+-----------------------
+2021/03/04 Thursday 12:32:01
+-----------------------
+2021/03/04 Thursday 12:39:08
+-----------------------
+2021/03/04 Thursday 12:47:16
+-----------------------
+2021/03/04 Thursday 12:54:23
+-----------------------
+2021/03/04 Thursday 13:02:31
+-----------------------
+2021/03/04 Thursday 13:09:38
+-----------------------
+2021/03/04 Thursday 13:17:46
+-----------------------
+2021/03/04 Thursday 13:24:53
+-----------------------
+2021/03/04 Thursday 13:32:00
+-----------------------
+2021/03/04 Thursday 13:40:08
+-----------------------
+2021/03/04 Thursday 13:48:16
+-----------------------
+2021/03/04 Thursday 13:55:23
+-----------------------
+2021/03/04 Thursday 14:03:31
+-----------------------
+2021/03/04 Thursday 14:10:38
+-----------------------
+2021/03/04 Thursday 14:17:45
+-----------------------
+2021/03/04 Thursday 14:24:52
+-----------------------
+2021/03/04 Thursday 14:33:00
+-----------------------
+2021/03/04 Thursday 14:41:08
+-----------------------
+2021/03/04 Thursday 14:49:16
+-----------------------
+2021/03/04 Thursday 14:56:23
+-----------------------
+2021/03/04 Thursday 15:04:31
+-----------------------
+2021/03/04 Thursday 15:12:39
+-----------------------
+2021/03/04 Thursday 15:20:47
+-----------------------
+2021/03/04 Thursday 15:27:54
+-----------------------
+2021/03/04 Thursday 15:35:01
+-----------------------
+2021/03/04 Thursday 15:42:08
+-----------------------
+2021/03/04 Thursday 15:49:15
+-----------------------
+2021/03/04 Thursday 15:56:22
+-----------------------
+2021/03/04 Thursday 16:03:29
+-----------------------
+2021/03/04 Thursday 16:11:38
+-----------------------
+2021/03/04 Thursday 16:18:45
+-----------------------
+2021/03/04 Thursday 16:25:52
+-----------------------
+2021/03/04 Thursday 16:34:00
+-----------------------
+2021/03/04 Thursday 16:41:07
+-----------------------
+2021/03/04 Thursday 16:49:15
+-----------------------
+2021/03/04 Thursday 16:57:23
+-----------------------
+2021/03/04 Thursday 17:05:31
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 17:12:45
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 17:21:01
+-----------------------
+2021/03/04 Thursday 17:29:09
+-----------------------
+2021/03/04 Thursday 17:36:16
+-----------------------
+2021/03/04 Thursday 17:44:24
+-----------------------
+2021/03/04 Thursday 17:52:33
+-----------------------
+2021/03/04 Thursday 18:00:41
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:07:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:14:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:23:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:31:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:39:19
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:47:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 18:54:34
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:01:41
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:08:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:15:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:23:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:30:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:38:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:45:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 19:53:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:00:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:08:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:16:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:25:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:33:13
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:41:21
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:49:29
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 20:56:36
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:04:44
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:11:51
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:18:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:26:05
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:33:12
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:41:21
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:48:28
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 21:55:35
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:03:43
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:10:50
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:17:57
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:25:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:32:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:40:19
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:48:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 22:55:35
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:03:43
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:11:51
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:18:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:26:05
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:33:12
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:41:20
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:49:28
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/03/04 Thursday 23:57:36

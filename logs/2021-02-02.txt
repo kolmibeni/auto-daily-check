@@ -1,0 +1,476 @@
+-----------------------
+2021/02/02 Tuesday 00:03:17
+-----------------------
+2021/02/02 Tuesday 00:10:24
+-----------------------
+2021/02/02 Tuesday 00:18:32
+-----------------------
+2021/02/02 Tuesday 00:25:39
+-----------------------
+2021/02/02 Tuesday 00:33:47
+-----------------------
+2021/02/02 Tuesday 00:40:54
+-----------------------
+2021/02/02 Tuesday 00:48:01
+-----------------------
+2021/02/02 Tuesday 00:55:08
+-----------------------
+2021/02/02 Tuesday 01:02:15
+-----------------------
+2021/02/02 Tuesday 01:09:22
+-----------------------
+2021/02/02 Tuesday 01:16:29
+-----------------------
+2021/02/02 Tuesday 01:23:36
+-----------------------
+2021/02/02 Tuesday 01:30:43
+-----------------------
+2021/02/02 Tuesday 01:38:51
+-----------------------
+2021/02/02 Tuesday 01:45:58
+-----------------------
+2021/02/02 Tuesday 01:54:06
+-----------------------
+2021/02/02 Tuesday 02:01:13
+-----------------------
+2021/02/02 Tuesday 02:09:21
+-----------------------
+2021/02/02 Tuesday 02:17:29
+-----------------------
+2021/02/02 Tuesday 02:24:36
+-----------------------
+2021/02/02 Tuesday 02:32:44
+-----------------------
+2021/02/02 Tuesday 02:39:51
+-----------------------
+2021/02/02 Tuesday 02:46:58
+-----------------------
+2021/02/02 Tuesday 02:54:05
+-----------------------
+2021/02/02 Tuesday 03:01:12
+-----------------------
+2021/02/02 Tuesday 03:09:20
+-----------------------
+2021/02/02 Tuesday 03:17:28
+-----------------------
+2021/02/02 Tuesday 03:25:36
+-----------------------
+2021/02/02 Tuesday 03:32:43
+-----------------------
+2021/02/02 Tuesday 03:39:50
+-----------------------
+2021/02/02 Tuesday 03:46:57
+-----------------------
+2021/02/02 Tuesday 03:55:05
+-----------------------
+2021/02/02 Tuesday 04:02:12
+-----------------------
+2021/02/02 Tuesday 04:09:19
+-----------------------
+2021/02/02 Tuesday 04:17:27
+-----------------------
+2021/02/02 Tuesday 04:24:34
+-----------------------
+2021/02/02 Tuesday 04:31:41
+-----------------------
+2021/02/02 Tuesday 04:39:49
+-----------------------
+2021/02/02 Tuesday 04:46:56
+-----------------------
+2021/02/02 Tuesday 04:54:03
+-----------------------
+2021/02/02 Tuesday 05:02:11
+-----------------------
+2021/02/02 Tuesday 05:10:19
+-----------------------
+2021/02/02 Tuesday 05:17:27
+-----------------------
+2021/02/02 Tuesday 05:24:34
+-----------------------
+2021/02/02 Tuesday 05:32:42
+-----------------------
+2021/02/02 Tuesday 05:40:50
+-----------------------
+2021/02/02 Tuesday 05:48:58
+-----------------------
+2021/02/02 Tuesday 05:56:05
+-----------------------
+2021/02/02 Tuesday 06:04:13
+-----------------------
+2021/02/02 Tuesday 06:12:21
+-----------------------
+2021/02/02 Tuesday 06:19:28
+-----------------------
+2021/02/02 Tuesday 06:27:36
+-----------------------
+2021/02/02 Tuesday 06:35:44
+-----------------------
+2021/02/02 Tuesday 06:42:51
+-----------------------
+2021/02/02 Tuesday 06:50:59
+-----------------------
+2021/02/02 Tuesday 06:59:07
+-----------------------
+2021/02/02 Tuesday 07:06:14
+-----------------------
+2021/02/02 Tuesday 07:13:21
+-----------------------
+2021/02/02 Tuesday 07:20:28
+-----------------------
+2021/02/02 Tuesday 07:28:36
+-----------------------
+2021/02/02 Tuesday 07:36:44
+-----------------------
+2021/02/02 Tuesday 07:43:51
+-----------------------
+2021/02/02 Tuesday 07:50:58
+-----------------------
+2021/02/02 Tuesday 07:59:06
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 08:07:21
+-----------------------
+2021/02/02 Tuesday 08:14:28
+-----------------------
+2021/02/02 Tuesday 08:21:35
+-----------------------
+2021/02/02 Tuesday 08:28:42
+-----------------------
+2021/02/02 Tuesday 08:36:50
+-----------------------
+2021/02/02 Tuesday 08:43:57
+-----------------------
+2021/02/02 Tuesday 08:51:04
+-----------------------
+2021/02/02 Tuesday 08:59:12
+-----------------------
+2021/02/02 Tuesday 09:07:24
+-----------------------
+2021/02/02 Tuesday 09:14:31
+-----------------------
+2021/02/02 Tuesday 09:22:39
+-----------------------
+2021/02/02 Tuesday 09:30:47
+-----------------------
+2021/02/02 Tuesday 09:37:54
+-----------------------
+2021/02/02 Tuesday 09:45:01
+-----------------------
+2021/02/02 Tuesday 09:53:09
+-----------------------
+2021/02/02 Tuesday 10:01:17
+-----------------------
+2021/02/02 Tuesday 10:08:24
+-----------------------
+2021/02/02 Tuesday 10:15:31
+-----------------------
+2021/02/02 Tuesday 10:22:38
+-----------------------
+2021/02/02 Tuesday 10:30:46
+-----------------------
+2021/02/02 Tuesday 10:37:53
+-----------------------
+2021/02/02 Tuesday 10:45:00
+-----------------------
+2021/02/02 Tuesday 10:53:08
+-----------------------
+2021/02/02 Tuesday 11:01:16
+-----------------------
+2021/02/02 Tuesday 11:09:24
+-----------------------
+2021/02/02 Tuesday 11:17:32
+-----------------------
+2021/02/02 Tuesday 11:25:40
+-----------------------
+2021/02/02 Tuesday 11:33:48
+-----------------------
+2021/02/02 Tuesday 11:41:56
+-----------------------
+2021/02/02 Tuesday 11:49:03
+-----------------------
+2021/02/02 Tuesday 11:57:11
+-----------------------
+2021/02/02 Tuesday 12:05:19
+-----------------------
+2021/02/02 Tuesday 12:12:26
+-----------------------
+2021/02/02 Tuesday 12:19:33
+-----------------------
+2021/02/02 Tuesday 12:26:40
+-----------------------
+2021/02/02 Tuesday 12:33:47
+-----------------------
+2021/02/02 Tuesday 12:40:54
+-----------------------
+2021/02/02 Tuesday 12:48:01
+-----------------------
+2021/02/02 Tuesday 12:56:09
+-----------------------
+2021/02/02 Tuesday 13:03:16
+-----------------------
+2021/02/02 Tuesday 13:11:24
+-----------------------
+2021/02/02 Tuesday 13:19:32
+-----------------------
+2021/02/02 Tuesday 13:26:40
+-----------------------
+2021/02/02 Tuesday 13:34:48
+-----------------------
+2021/02/02 Tuesday 13:41:55
+-----------------------
+2021/02/02 Tuesday 13:49:02
+-----------------------
+2021/02/02 Tuesday 13:57:10
+-----------------------
+2021/02/02 Tuesday 14:05:18
+-----------------------
+2021/02/02 Tuesday 14:13:26
+-----------------------
+2021/02/02 Tuesday 14:21:34
+-----------------------
+2021/02/02 Tuesday 14:29:42
+-----------------------
+2021/02/02 Tuesday 14:36:49
+-----------------------
+2021/02/02 Tuesday 14:44:57
+-----------------------
+2021/02/02 Tuesday 14:53:05
+-----------------------
+2021/02/02 Tuesday 15:01:13
+-----------------------
+2021/02/02 Tuesday 15:08:20
+-----------------------
+2021/02/02 Tuesday 15:15:27
+-----------------------
+2021/02/02 Tuesday 15:22:34
+-----------------------
+2021/02/02 Tuesday 15:29:41
+-----------------------
+2021/02/02 Tuesday 15:37:49
+-----------------------
+2021/02/02 Tuesday 15:45:57
+-----------------------
+2021/02/02 Tuesday 15:53:04
+-----------------------
+2021/02/02 Tuesday 16:01:12
+-----------------------
+2021/02/02 Tuesday 16:08:19
+-----------------------
+2021/02/02 Tuesday 16:15:26
+-----------------------
+2021/02/02 Tuesday 16:22:33
+-----------------------
+2021/02/02 Tuesday 16:30:41
+-----------------------
+2021/02/02 Tuesday 16:38:49
+-----------------------
+2021/02/02 Tuesday 16:46:57
+-----------------------
+2021/02/02 Tuesday 16:54:04
+-----------------------
+2021/02/02 Tuesday 17:02:12
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 17:09:26
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 17:17:42
+-----------------------
+2021/02/02 Tuesday 17:24:49
+-----------------------
+2021/02/02 Tuesday 17:31:56
+-----------------------
+2021/02/02 Tuesday 17:39:03
+-----------------------
+2021/02/02 Tuesday 17:46:10
+-----------------------
+2021/02/02 Tuesday 17:53:17
+-----------------------
+2021/02/02 Tuesday 18:00:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:07:31
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:15:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:23:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:31:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:40:04
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:47:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 18:55:19
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:03:27
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:11:35
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:19:43
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:27:52
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:34:59
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:42:06
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:49:13
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 19:56:20
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:04:28
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:12:36
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:20:44
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:28:52
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:37:00
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:44:08
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:51:15
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 20:59:23
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:06:30
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:13:37
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:21:45
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:28:52
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:37:00
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:45:08
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 21:53:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:00:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:07:31
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:15:39
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:22:46
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:30:54
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:39:02
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:47:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 22:54:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:01:24
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:09:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:16:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:24:48
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:31:55
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:40:07
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:48:16
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2021/02/02 Tuesday 23:55:23

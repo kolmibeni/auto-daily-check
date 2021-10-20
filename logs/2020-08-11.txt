@@ -1,0 +1,474 @@
+-----------------------
+2020/08/11 Tuesday 00:00:53
+-----------------------
+2020/08/11 Tuesday 00:09:01
+-----------------------
+2020/08/11 Tuesday 00:16:08
+-----------------------
+2020/08/11 Tuesday 00:24:16
+-----------------------
+2020/08/11 Tuesday 00:32:24
+-----------------------
+2020/08/11 Tuesday 00:40:32
+-----------------------
+2020/08/11 Tuesday 00:47:39
+-----------------------
+2020/08/11 Tuesday 00:54:46
+-----------------------
+2020/08/11 Tuesday 01:01:53
+-----------------------
+2020/08/11 Tuesday 01:10:01
+-----------------------
+2020/08/11 Tuesday 01:17:08
+-----------------------
+2020/08/11 Tuesday 01:25:16
+-----------------------
+2020/08/11 Tuesday 01:32:23
+-----------------------
+2020/08/11 Tuesday 01:40:31
+-----------------------
+2020/08/11 Tuesday 01:47:38
+-----------------------
+2020/08/11 Tuesday 01:54:45
+-----------------------
+2020/08/11 Tuesday 02:01:52
+-----------------------
+2020/08/11 Tuesday 02:08:59
+-----------------------
+2020/08/11 Tuesday 02:16:06
+-----------------------
+2020/08/11 Tuesday 02:24:14
+-----------------------
+2020/08/11 Tuesday 02:32:22
+-----------------------
+2020/08/11 Tuesday 02:40:30
+-----------------------
+2020/08/11 Tuesday 02:48:38
+-----------------------
+2020/08/11 Tuesday 02:55:45
+-----------------------
+2020/08/11 Tuesday 03:03:53
+-----------------------
+2020/08/11 Tuesday 03:12:01
+-----------------------
+2020/08/11 Tuesday 03:19:09
+-----------------------
+2020/08/11 Tuesday 03:26:16
+-----------------------
+2020/08/11 Tuesday 03:34:24
+-----------------------
+2020/08/11 Tuesday 03:42:32
+-----------------------
+2020/08/11 Tuesday 03:49:39
+-----------------------
+2020/08/11 Tuesday 03:57:47
+-----------------------
+2020/08/11 Tuesday 04:04:54
+-----------------------
+2020/08/11 Tuesday 04:13:02
+-----------------------
+2020/08/11 Tuesday 04:21:10
+-----------------------
+2020/08/11 Tuesday 04:29:18
+-----------------------
+2020/08/11 Tuesday 04:37:26
+-----------------------
+2020/08/11 Tuesday 04:44:33
+-----------------------
+2020/08/11 Tuesday 04:51:40
+-----------------------
+2020/08/11 Tuesday 04:58:47
+-----------------------
+2020/08/11 Tuesday 05:05:54
+-----------------------
+2020/08/11 Tuesday 05:13:01
+-----------------------
+2020/08/11 Tuesday 05:20:08
+-----------------------
+2020/08/11 Tuesday 05:28:16
+-----------------------
+2020/08/11 Tuesday 05:35:23
+-----------------------
+2020/08/11 Tuesday 05:43:31
+-----------------------
+2020/08/11 Tuesday 05:51:39
+-----------------------
+2020/08/11 Tuesday 05:58:46
+-----------------------
+2020/08/11 Tuesday 06:06:54
+-----------------------
+2020/08/11 Tuesday 06:14:01
+-----------------------
+2020/08/11 Tuesday 06:21:08
+-----------------------
+2020/08/11 Tuesday 06:28:15
+-----------------------
+2020/08/11 Tuesday 06:35:22
+-----------------------
+2020/08/11 Tuesday 06:42:29
+-----------------------
+2020/08/11 Tuesday 06:49:36
+-----------------------
+2020/08/11 Tuesday 06:56:43
+-----------------------
+2020/08/11 Tuesday 07:04:51
+-----------------------
+2020/08/11 Tuesday 07:11:58
+-----------------------
+2020/08/11 Tuesday 07:19:05
+-----------------------
+2020/08/11 Tuesday 07:26:12
+-----------------------
+2020/08/11 Tuesday 07:34:20
+-----------------------
+2020/08/11 Tuesday 07:41:27
+-----------------------
+2020/08/11 Tuesday 07:49:35
+-----------------------
+2020/08/11 Tuesday 07:56:42
+Sign up for working.
+C:\robot\benny\ncku-signin-robot-v1.3\signup.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 08:03:57
+-----------------------
+2020/08/11 Tuesday 08:12:05
+-----------------------
+2020/08/11 Tuesday 08:19:12
+-----------------------
+2020/08/11 Tuesday 08:27:29
+-----------------------
+2020/08/11 Tuesday 08:34:36
+-----------------------
+2020/08/11 Tuesday 08:41:43
+-----------------------
+2020/08/11 Tuesday 08:49:51
+-----------------------
+2020/08/11 Tuesday 08:56:58
+-----------------------
+2020/08/11 Tuesday 09:05:06
+-----------------------
+2020/08/11 Tuesday 09:12:13
+-----------------------
+2020/08/11 Tuesday 09:20:21
+-----------------------
+2020/08/11 Tuesday 09:28:29
+-----------------------
+2020/08/11 Tuesday 09:35:36
+-----------------------
+2020/08/11 Tuesday 09:43:44
+-----------------------
+2020/08/11 Tuesday 09:50:51
+-----------------------
+2020/08/11 Tuesday 09:58:59
+-----------------------
+2020/08/11 Tuesday 10:07:07
+-----------------------
+2020/08/11 Tuesday 10:15:15
+-----------------------
+2020/08/11 Tuesday 10:22:22
+-----------------------
+2020/08/11 Tuesday 10:30:30
+-----------------------
+2020/08/11 Tuesday 10:38:38
+-----------------------
+2020/08/11 Tuesday 10:45:45
+-----------------------
+2020/08/11 Tuesday 10:53:53
+-----------------------
+2020/08/11 Tuesday 11:01:00
+-----------------------
+2020/08/11 Tuesday 11:09:08
+-----------------------
+2020/08/11 Tuesday 11:16:15
+-----------------------
+2020/08/11 Tuesday 11:23:22
+-----------------------
+2020/08/11 Tuesday 11:30:29
+-----------------------
+2020/08/11 Tuesday 11:37:36
+-----------------------
+2020/08/11 Tuesday 11:45:44
+-----------------------
+2020/08/11 Tuesday 11:53:52
+-----------------------
+2020/08/11 Tuesday 12:00:59
+-----------------------
+2020/08/11 Tuesday 12:09:07
+-----------------------
+2020/08/11 Tuesday 12:17:15
+-----------------------
+2020/08/11 Tuesday 12:25:23
+-----------------------
+2020/08/11 Tuesday 12:33:31
+-----------------------
+2020/08/11 Tuesday 12:41:39
+-----------------------
+2020/08/11 Tuesday 12:49:47
+-----------------------
+2020/08/11 Tuesday 12:57:55
+-----------------------
+2020/08/11 Tuesday 13:06:03
+-----------------------
+2020/08/11 Tuesday 13:13:10
+-----------------------
+2020/08/11 Tuesday 13:20:17
+-----------------------
+2020/08/11 Tuesday 13:27:24
+-----------------------
+2020/08/11 Tuesday 13:35:32
+-----------------------
+2020/08/11 Tuesday 13:43:40
+-----------------------
+2020/08/11 Tuesday 13:51:48
+-----------------------
+2020/08/11 Tuesday 13:58:55
+-----------------------
+2020/08/11 Tuesday 14:07:03
+-----------------------
+2020/08/11 Tuesday 14:14:10
+-----------------------
+2020/08/11 Tuesday 14:21:17
+-----------------------
+2020/08/11 Tuesday 14:29:25
+-----------------------
+2020/08/11 Tuesday 14:36:32
+-----------------------
+2020/08/11 Tuesday 14:43:39
+-----------------------
+2020/08/11 Tuesday 14:51:47
+-----------------------
+2020/08/11 Tuesday 14:59:55
+-----------------------
+2020/08/11 Tuesday 15:07:02
+-----------------------
+2020/08/11 Tuesday 15:15:10
+-----------------------
+2020/08/11 Tuesday 15:23:18
+-----------------------
+2020/08/11 Tuesday 15:30:25
+-----------------------
+2020/08/11 Tuesday 15:37:32
+-----------------------
+2020/08/11 Tuesday 15:44:39
+-----------------------
+2020/08/11 Tuesday 15:51:46
+-----------------------
+2020/08/11 Tuesday 15:58:53
+-----------------------
+2020/08/11 Tuesday 16:06:00
+-----------------------
+2020/08/11 Tuesday 16:14:08
+-----------------------
+2020/08/11 Tuesday 16:21:15
+-----------------------
+2020/08/11 Tuesday 16:29:23
+-----------------------
+2020/08/11 Tuesday 16:36:30
+-----------------------
+2020/08/11 Tuesday 16:44:38
+-----------------------
+2020/08/11 Tuesday 16:51:45
+-----------------------
+2020/08/11 Tuesday 16:59:53
+-----------------------
+2020/08/11 Tuesday 17:07:01
+Sign out for leaving.
+C:\robot\benny\ncku-signin-robot-v1.3\leave.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 17:15:18
+-----------------------
+2020/08/11 Tuesday 17:22:25
+-----------------------
+2020/08/11 Tuesday 17:30:33
+-----------------------
+2020/08/11 Tuesday 17:37:40
+-----------------------
+2020/08/11 Tuesday 17:44:47
+-----------------------
+2020/08/11 Tuesday 17:52:55
+-----------------------
+2020/08/11 Tuesday 18:00:02
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:08:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:15:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:23:26
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:30:33
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:38:41
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:46:49
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 18:53:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:01:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:09:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:16:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:24:26
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:31:34
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:38:41
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:46:49
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 19:53:56
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:01:03
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:09:11
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:16:18
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:24:26
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:32:34
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:39:42
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:47:50
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 20:55:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:03:05
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:11:13
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:18:20
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:26:28
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:33:35
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:40:42
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:48:51
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 21:55:58
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:04:06
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:11:13
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:19:21
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:27:29
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:35:37
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:43:45
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 22:51:53
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:00:02
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:08:10
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:15:17
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:23:25
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:30:32
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:38:40
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:45:47
+Testing.
+C:\robot\benny\ncku-signin-robot-v1.3\test.bat C:\robot\benny\ncku-signin-robot-v1.3
+-----------------------
+2020/08/11 Tuesday 23:53:55
