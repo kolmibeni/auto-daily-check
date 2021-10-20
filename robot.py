@@ -31,14 +31,14 @@ def time_in_range(start, end, x):
 		return start <= x or x <= end
 
 def starting_work():
-	start = datetime.time(7, 51, 0)
-	end   = datetime.time(8, 3, 0)
+	start = datetime.time(7, 15, 0)
+	end   = datetime.time(7, 30, 0)
 	current = datetime.datetime.now().time()
 	return time_in_range(start, end, current)
 
 def getting_off_work():
-	start = datetime.time(17, 1, 0)
-	end   = datetime.time(17, 13, 0)
+	start = datetime.time(15, 15, 0)
+	end   = datetime.time(15, 30, 0)
 	current = datetime.datetime.now().time()
 	return time_in_range(start, end, current)
 
@@ -99,11 +99,11 @@ while(True):
 	if(is_working_day(event, today)):
 		cmd=''
 		if(starting_work()):
-			log_file.write('Sign up for working.\n')
-			cmd = path+r'\signup.bat '+path
+			log_file.write('Morning daily check\n')
+			cmd = path+r'\daily-check.bat '+path
 		if(getting_off_work()):
-			log_file.write('Sign out for leaving.\n')
-			cmd = path+r'\leave.bat '+path
+			log_file.write('Afternoon daily check\n')
+			cmd = path+r'\daily-check.bat '+path
 		if(idle_time_range()):
 			log_file.write('Testing.\n')
 			cmd = path+r'\test.bat '+path
