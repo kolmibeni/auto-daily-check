@@ -43,6 +43,7 @@ sleep(5)
 order_tab = driver.find_element_by_css_selector(
        '#fs_upd_N')
 order_tab.click()
+sleep(5)
 order_tab = driver.find_element_by_css_selector(
        'button[class=\"btn btn-primary save_button\"]')
 order_tab.click()
